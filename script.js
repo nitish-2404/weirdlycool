@@ -55,7 +55,7 @@
 */
 const messages = [
     "Are you sure?",
-    "pakka sanju ??",
+    "pakka Rashi ??",
     "sachmein pakka ?",
     "Pookie please...",
     "Moti ek baar soch toh lee",
